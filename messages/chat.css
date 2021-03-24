@@ -1,0 +1,29 @@
+.page{
+    margin-top:7%;
+
+}
+
+#msgContainer{
+    height: 400px;
+    overflow-y: scroll;
+    color:white;
+    font-size:20px;
+    
+}
+.message{
+    margin: 5px;
+    border-radius:20px;
+    border: 1px solid rgb(128, 128, 128);
+    padding: 10px;
+}
+.left{
+    border-bottom-left-radius: 0px;
+    background:darkred;
+}
+.right{
+    border-bottom-right-radius: 0px;
+    background:rebeccapurple;
+}
+.col-md-3{
+    background-color:ghostwhite;
+}
